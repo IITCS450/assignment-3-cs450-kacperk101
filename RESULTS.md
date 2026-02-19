@@ -12,7 +12,7 @@ Each child runs a counting loop (CPU-bound work)
 ## Results
 Child 1 got ~75% of CPU time
 Child 2 got ~25% of CPU time
-This matches the expected 3:1 ratio (30:10 tickets)
+This meets the expected 3:1 ratio
 
 ## Notes
 - Short runs have more variance (randomness)
